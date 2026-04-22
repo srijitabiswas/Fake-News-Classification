@@ -55,16 +55,6 @@ Matplotlib / Seaborn (if used)
 The model successfully classifies news articles as fake or real
 Achieved good accuracy on test data (mention your actual accuracy here)
 
-🚀 How to Run the Project
-Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project folder
-cd your-repo-name
-Install required libraries
-pip install -r requirements.txt
-Run the notebook / script
-jupyter notebook
-
 📌 Future Improvements
 Use advanced models like LSTM or BERT
 Improve accuracy with larger datasets
